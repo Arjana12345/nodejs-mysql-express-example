@@ -1,1 +1,1 @@
-# -nodejs-mysql-example
+# -nodejs-mysql-express-example
